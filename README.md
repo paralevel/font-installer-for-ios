@@ -1,4 +1,7 @@
 # Font Installer for iOS
+<sup>_System Requirements: iOS 26_</sup>
+<br>
+<br>
 Shortcut for installing TTF and OTF fonts on iOS
 
 [Release 20260513](https://www.icloud.com/shortcuts/f9f03f56d352473381345908ea5afc26)
